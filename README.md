@@ -1,4 +1,10 @@
 # Before Everything
+This is a project from USC CSCI 550 Advanced Data Stores done by a team of three.
+
+[Project Presentation](https://github.com/pppiyo/MongoDB_B_plus_Tree/blob/main/CSCI%20550%20Final%20Project%20Presentation%20-%20Team%202.pdf)
+
+[Project Report](https://github.com/pppiyo/MongoDB_B_plus_Tree/blob/main/Final_Project_Team_2.pdf)
+
 [Project Proposal](https://docs.google.com/document/d/1Y4Z0uoXtBMYnMPCDE2V_ZwDiHTk2pHa6qmUtAeexxNg/edit)
 
 [Project Folder](https://drive.google.com/drive/folders/1mYLia5krh1bT-pdVTcmx84_MATQx2RFg)
